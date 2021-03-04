@@ -1,4 +1,4 @@
-konlpy == 0.5.1
+konlpy==0.5.1
 matplotlib==3.0.2
 nbconvert==5.4.0
 numpy==1.15.4
